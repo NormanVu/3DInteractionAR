@@ -6,6 +6,8 @@ Follow best practices for visual feedback, gesture interactions, and realistic r
 
 Augmented reality (AR) offers new ways for users to interact with real and virtual 3D content in your app. However, many fundamental principles of human interface design are still valid. Convincing AR illusions also require careful attention to 3D asset design and rendering. The [iOS Human Interface Guidelines][0] include advice on human interface principles for AR. This project shows ways to apply those guidelines and easily create immersive, intuitive AR experiences.
 
+![Screenshot](Documentation/coordinate_system_in_realworld.png)
+
 [0]:https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/
 
 This sample app provides a simple AR experience allowing a user to place one or more realistic virtual objects in their real-world environment, then arrange those objects using intuitive gestures. The app offers user interface cues to help the user understand the state of the AR experience and their options for interaction.
